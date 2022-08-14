@@ -8,11 +8,21 @@
 
 [Check the wowhead guides.](https://www.wowhead.com/wotlk/guides/classes/death-knight)
 
+#### What presence do I do X in?
+
+Blood for DPS, Frost for tanking, Unholy for movement and snapshotting pets.
+
+#### What is Blood Death Knights meta role?
+
+Blood DK has the highest single target threat per second of the tanks due to a cumulative 14x threat modifier on Icy Touch.  They avoid physical damage well (largely by parrying) and Spell Deflection is the strongest passive magic avoidance mechanic of all the tanks.  Army of the Dead is a niche but strong damage reduction spell that also works on incoming magic damage.  Will of the Necropolis is a very strong damage reduction talent.  In all, Blood DKs are the choice for threat and magic mitigation.
+
 #### What race do I go?
 
 On alliance, if you do not have a Draenei in every party you should be a Draenei.  Even if you can guarantee you will be in a group with one; you will see a higher personal DPS gain from a shorter kill time giving other groups a buff than going human in a Draenei group and leaving a party goatless.  Human is ~+15 DPS in phase 1 due to expertise and by phase 3 you will no longer see any DPS gain from being human.  For tanking, Dwarves have an armor CD and Night Elves have 2% unreduced avoid.
 
-For horde, Blood Elf brings a strong tanking tool and a little more magic resist.  Orc is BiS all around and Troll may be better than Orc depending on fight length and how well you snapshot Gargoyle.  Tauren's passive is base health in WotLK it is terrible.
+For horde, Blood Elf's AoE silence is subjectively strong when tanking for collecting casters.  Orc is BiS all around and Troll may be better than Orc depending on fight length and how well you snapshot Gargoyle.  Tauren's passive is base health in WotLK it is terrible.
+
+Ultimately, all choices except for horde DPS between Orc and Troll are fairly negligible and subjective.
 
 #### What professions are BIS?  How much worse is it if I go this other profession?
 
@@ -20,7 +30,7 @@ Engineering and Jewelcrafting.  [Sim it](https://wowsims.github.io/wotlk/)
 
 #### What DK DPS spec should I play?
 
-Every raid wants one Unholy to spread Ebon Plague for % magic damage as the other two specs to bring this debuff must manually cast it on each target.  Most raids want Improved Icy Talons from a DK as the shaman equivalent requires them to lose points in a DPS talent; double buff Blood tank or Frost DPS can bring this.  After those are satisfied for your raid, the rest of the DPS _should_ go whichever spec is better at the time for the goals of the raid.  Conventionally, this is frost early for single target while Unholy scales better and is always better at AoE that lives long.
+Every raid wants one Unholy to spread Ebon Plague for % magic damage and 30% disease damage; the other two specs to bring % magic damage must manually cast it on each target and no other class brings % disease damage for spriest.  Most raids want Improved Icy Talons from a DK as the shaman equivalent requires them to lose points in a DPS talent; double buff Blood tank or Frost DPS can bring this.  After those are satisfied for your raid, the rest of the DPS _should_ go whichever spec is better at the time for the goals of the raid.  Conventionally, this is frost early for single target while Unholy scales better and is always better at AoE that lives long.
 
 #### Which is better: Frost or Unholy?
 
@@ -32,7 +42,7 @@ Depends on your definition of viable.  It can clear content; it is at least 10% 
 
 #### Is Frost / Unholy tank viable?
 
-Depends on the relative difficulty of content.  Frost tank is a really fun and solid choice for 10s and heroic dungeons but may struggle on 25 heroics and is certainly less preferable to Blood or a Paladin / Feral for raw mitigation in that context.  It has really strong snap aggro openning with Death and Decay -> Howling Blast -> Blood Boil especially with Glyph of Howling Blast.  Ideally, you would Frost tank with the remaining points in Blood for imp tap, Bladed Armor, Blade Barrier, etc.  Unholy tank is essentially just Unholy DPS in frost presence that death strikes but it works fine for normal dungeons and probably heroic dungeons.
+Depends on the relative difficulty of content.  Frost tank is a really fun and solid choice for 10s and heroic dungeons but may struggle on 25 heroics and is certainly less preferable to Blood or a Paladin / Feral for raw mitigation in that context.  It has strong AoE snap aggro by opening with Death and Decay -> Howling Blast -> Blood Boil especially with Glyph of Howling Blast.  Ideally, you would Frost tank with the remaining points in Blood for imp tap, Bladed Armor, Blade Barrier, etc.  Unholy tank is essentially just Unholy DPS in frost presence that death strikes but it works fine for normal dungeons and probably heroic dungeons.
 
 #### Dual wield Unholy?!?!
 
@@ -53,7 +63,7 @@ Army of the Dead is not used in combat by DPS specs as it has a long cast time t
 
 Gargoyle snapshots haste, melee attack speed (icy talons), hit and AP when summoned. It can crit but has either 0 base crit or a very low base crit chance and its crit chance can only be increased by crit debuffs: it will ignore your crit from gear and buffs. Armor pen has no effect on it. Gargoyle doesnt snapshot or benefit dynamically from any %dmg buffs such as blood presence, Tricks or Unholy Frenzy. Unholy Death Knights will focus on snap shotting melee haste, AP/Str trinkets, and Fallen Crusader on their Gargoyle.
 
-Master of Ghouls' ghoul gets strenght and not AP from the player.  Its stats also dynamically update with the player as they get AP procs etc, it receives group buffs like King with Rogues, and does not snapshot.  
+Master of Ghouls' ghoul gets strength and not AP from the player.  Its stats also dynamically update with the player as they get AP procs etc, it receives group buffs like King with Rogues, and does not snapshot.  
 
 Blood worms suck: their iCD is longer than their summon so you can never have 2 sets up at the same time; a set caps at 4 and they do medicore damage and trivial healing.  
 
@@ -71,7 +81,7 @@ As an example: If an Unholy Rune regenerates, and at the same exact time you spe
 
 #### Should Blood Tanks aim for spell hit cap?
 
-Dark Command (our tank) works on spell hitcap; you should not gear for spell hitcap though you will often accidentally end up nearly 1-3% away.  The recommended course of action is to keep copies of the Glyph of Dark Command on hand and put them on for encounters where a taunt failure will wipe your raid.
+Dark Command (our taunt) works on spell hitcap; you should not gear for spell hitcap though you will often accidentally end up nearly 1-3% away.  The recommended course of action is to keep copies of the Glyph of Dark Command on hand and put them on for encounters where a taunt failure will wipe your raid.
 
 #### Should a Blood Tank be a main tank or off tank?
 
@@ -87,4 +97,8 @@ Leeway is a classic feature that increases the range of actions depending on the
 
 #### How does Will of the Necropolis work?
 
-All damage from any hit that would bring you below 35% health will be reduced by 15%. If you had 10,000 hp and an ability would do 7,000 damage to you, it will instead do 5,950 damage.  This is -not- how Paladin's Argent Defender works.
+All damage from any hit that would bring you below 35% health will be reduced by 15%. If you had 10,000 hp and an ability would do 7,000 damage to you, it will instead do 5,950 damage.  This is -not- how Paladin's Ardent Defender works.
+
+#### What is / will we use Manual Crowd Pummeler (MCP)?
+
+Manual Crowd Pummeler is a level 34 item from Gnomeregan with an on use of 500 haste rating for 30 seconds.  In WotLK this effect has unlimited charges but is on a 1 hour cooldown.  MCP _could_ be cast before Summon Gargoyle to snapshot the haste onto the Gargoyle in WotLK beta.  However, in traditional unholy openers, Gargoyle is summoned during weapon procs to snapshot those buffs.  MCP is too low level to have wotlk enchants or Fallen Crusader and incurs a large DPS loss trying to proc other haste items like Thundering Skyflare meta gem.  As it stands, **it is unlikely that using MCP in an unholy DK opener is a DPS gain.**  Frost DKs may snapshot MCP out of combat on Army of the Dead; unholy would not do this as swapping back to their weapons is expected to put Black Magic (haste proc for Gargoyle) on iCD and Blood saves AoTD for turning parry/dodge into magic mitigation and damage smoothing.
