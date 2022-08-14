@@ -1,4 +1,4 @@
-# Frequently Asked Questions for Dead Knights
+# Frequently Asked Questions for Dead Knights ![](./media/skinnay_rip.png)
 
 [Wowhead guides](https://www.wowhead.com/wotlk/guides/classes/death-knight) are written by Deance and Mabrito in the [Blight Club discord](https://discord.gg/worms).  Half of your answers are in those guides; if you find errors, ask them about them in discord.  You won't find "better" answers by bothering them but if you're looking for more advanced reasoning than is on Wowhead, make sure to lead conversations with that you've read the guide and your current understanding.
 
