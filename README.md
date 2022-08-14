@@ -34,8 +34,6 @@ Depends on your definition of viable.  It can clear content; it is at least 10% 
 
 Depends on the relative difficulty of content.  Frost tank is a really fun and solid choice for 10s and heroic dungeons but may struggle on 25 heroics and is certainly less preferable to Blood or a Paladin / Feral for raw mitigation in that context.  It has really strong snap aggro openning with Death and Decay -> Howling Blast -> Blood Boil especially with Glyph of Howling Blast.  Ideally, you would Frost tank with the remaining points in Blood for imp tap, Bladed Armor, Blade Barrier, etc.  Unholy tank is essentially just Unholy DPS in frost presence that death strikes but it works fine for normal dungeons and probably heroic dungeons.
 
-
-
 #### Dual wield Unholy?!?!
 
 Its totally good early in WotLK.  When 2h surpases it due to scaling on Scourge Strike is for the sim to tell.  The thought process is 2h UH is not GCD capped and an IT + PS > SS; once you stop using scourge strike, you have very few weapon damage scaling abilities; BB beats BS in damage so you only BS to keep up Desolation and PS scales with weapon damage; the additional damage from white hits when dual wielding beats the DPS loss on those two skills.  Dual wield rotation is covered in the [wowhead guide under "Morb"](https://www.wowhead.com/wotlk/guides/unholy-death-knight-dps-rotation-cooldowns-abilities).
@@ -44,16 +42,18 @@ Its totally good early in WotLK.  When 2h surpases it due to scaling on Scourge 
 
 Also totally fine.  You drop points in 2h Mastery in blood tree for points in Scent; you take the DW talents in frost.  This build feeds well into a double buff tanking build and is covered in the [wowhead blood guide](https://www.wowhead.com/wotlk/guides/blood-death-knight-tank-talents-builds-glyphs).  Some answers to common follow up questions:
 - 2h and DW get pretty much equal primary attributes the whole expansion
-- Very few bosses in WotLK parry haste; you will not want to tank these DW so either OT those fights or keep a 2h for them
+- Parry haste exists.
 - Basically every single weapon in WotLK in contested so choose the spec that least contests your raid.
 
 #### Yo' what the dog doing? (info dump on pets, guardians, and summons)
 
 Guardian pets (summons without a petbar like Gargoyle and Ghoul _without Master of Ghouls talent_ and Army of the Dead) snapshot your stats on summon, so you want to already be lusted and have drank your DPS pot.  
 
-Army of the Dead is not used in combat as it has a long cast time that isn't worth the DPS loss; you may use something like an MCP to haste them before pull.  
+Army of the Dead is not used in combat by DPS specs as it has a long cast time that isn't worth the DPS loss; you may use something like an MCP to haste them before pull.  Tanks may use Army for its converting physical avoid into DR to soak magic damage better.
 
-Gargoyle snapshots haste, melee attack speed (icy talons), hit and AP when summoned. It can crit but has either 0 base crit or a very low base crit chance and its crit chance can only be increased by crit debuffs: it will ignore your crit from gear and buffs. Armor pen has no effect on it. Gargoyle doesnt snapshot or benefit dynamically from any %dmg buffs such as blood presence, Tricks or Unholy Frenzy. Unholy Death Knights focus on snap shotting melee haste and Fallen Crusader on their Gargoyle as the primary means to get massive damage.
+Gargoyle snapshots haste, melee attack speed (icy talons), hit and AP when summoned. It can crit but has either 0 base crit or a very low base crit chance and its crit chance can only be increased by crit debuffs: it will ignore your crit from gear and buffs. Armor pen has no effect on it. Gargoyle doesnt snapshot or benefit dynamically from any %dmg buffs such as blood presence, Tricks or Unholy Frenzy. Unholy Death Knights will focus on snap shotting melee haste, AP/Str trinkets, and Fallen Crusader on their Gargoyle.
+
+Master of Ghouls' ghoul gets strenght and not AP from the player.  Its stats also dynamically update with the player as they get AP procs etc, it receives group buffs like King with Rogues, and does not snapshot.  
 
 Blood worms suck: their iCD is longer than their summon so you can never have 2 sets up at the same time; a set caps at 4 and they do medicore damage and trivial healing.  
 
