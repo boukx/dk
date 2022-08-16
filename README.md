@@ -57,7 +57,7 @@ Also totally fine.  You drop points in 2h Mastery in blood tree for points in Sc
 
 #### Yo' what the dog doing? (info dump on pets, guardians, and summons)
 
-Guardian pets (summons without a petbar like Gargoyle and Ghoul _without Master of Ghouls talent_ and Army of the Dead) snapshot your stats on summon, so you want to already be lusted and have drank your DPS pot.  
+Guardian pets (summons without a petbar like Gargoyle and Ghoul _without Master of Ghouls talent_ and Army of the Dead) snapshot your stats on summon, so you want to already be lusted and have drank your DPS pot.  Guardian's are not in your party so Bloodlust/Heroism after they are summoned will not affect them; they cannot receive Tricks or Unholy Frenzy; targeted buffs like paladin buffs must be manually applied.
 
 Army of the Dead is not used in combat by DPS specs as it has a long cast time that isn't worth the DPS loss; you may use something like an MCP to haste them before pull.  Tanks may use Army for its converting physical avoid into DR to soak magic damage better.
 
