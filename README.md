@@ -1,8 +1,20 @@
 [Wowhead guides](https://www.wowhead.com/wotlk/guides/classes/death-knight) are written by Deance and Mabrito in the [Blight Club discord](https://discord.gg/worms).  Half of your answers are in those guides; if you find errors, ask them about them in discord.  You won't find "better" answers by bothering them but if you're looking for more advanced reasoning than is on Wowhead, make sure to lead conversations with that you've read the guide and your current understanding.
 
+
+
+
+
 #### Is X piece of gear better than Y if I have _\[lists whole set of gear\]_?
 
 [After you have simmed it](https://wowsims.github.io/wotlk/), ask any follow up questions in #simming
+
+#### What are stat weights, what stats should I get?
+
+Stat weights are a numerical comparison used to compare different stats like strength and crit to eachother and see how much each are worth. Stat weights are generally written as EP (equivalence points) with attack power set to 1 for melee as a comparison points. It's important to remember that stat weights will change depending on what stats you have already and every time your stats change (equipping a new item) your stat weights will change a little too.  You can calculate your stat weights given any set of gear using  [the sim](https://wowsims.github.io/wotlk/).
+
+#### What about caps, shouldn't I always gear to reach hit cap and expertise cap first?
+
+Not necessarily. Stats with caps can also be calculated as stat weights and compared that way, the only difference is that the value of the stat will change depending on if you're under or over its cap, and whether the cap is a hard or soft cap. A soft cap is one that eliminates some of the value of a stat but not all. Soft hit cap for example is when your special attacks wont miss anymore. Hard cap is the point at which a stat no longer provides additional value. The hit hard cap when dual wielding will be higher than the soft cap and is the point at which your auto attacks wont miss anymore. In practice this means that hit below the soft cap will have a higher stat weight than above the soft cap.
 
 #### What talents / gear / BIS / stats should I take as X spec?
 
@@ -20,7 +32,7 @@ Blood DK has the highest single target threat per second of the tanks due to a c
 
 On alliance, if you do not have a Draenei in every party you should be a Draenei.  Even if you can guarantee you will be in a group with one; you will see a higher personal DPS gain from a shorter kill time giving other groups a buff than going human in a Draenei group and leaving a party goatless.  Human is ~+15 DPS in phase 1 due to expertise and by phase 3 you will no longer see any DPS gain from being human.  For tanking, Dwarves have an armor CD and Night Elves have 2% unreduced avoid.
 
-For horde, Blood Elf's AoE silence is subjectively strong when tanking for collecting casters.  Orc is BiS all around and Troll may be better than Orc depending on fight length and how well you snapshot Gargoyle.  Tauren's passive is base health in WotLK it is terrible.
+For horde, Blood Elf's AoE silence is subjectively strong when tanking for collecting casters.  Orc is strong all around but Troll is far and away BiS for Unholy.  Tauren's passive is base health in WotLK it is terrible.
 
 Ultimately, all choices except for horde DPS between Orc and Troll are fairly negligible and subjective.
 
@@ -54,7 +66,7 @@ DPS predictions for Revitalize on DW Unholy get very weird.  You're often cappin
 
 #### Dual wield Unholy?!?!
 
-Its totally good early in WotLK.  When 2h surpases it due to scaling on Scourge Strike is for the sim to tell.  The thought process is 2h UH is not GCD capped and an IT + PS > SS; once you stop using scourge strike, you have very few weapon damage scaling abilities; BB beats BS in damage so you only BS to keep up Desolation and PS scales with weapon damage; the additional damage from white hits when dual wielding beats the DPS loss on those two skills.  Dual wield rotation is covered in the [wowhead guide under "Morb"](https://www.wowhead.com/wotlk/guides/unholy-death-knight-dps-rotation-cooldowns-abilities).
+Dual wield Unholy beats 2 handed Unholy early in WotLK.  As of now, the sim projects it to stay that way until(/if) you are able to get Shadowmourne.  Dual wield rotation is covered in the [wowhead guide under "Morb"](https://www.wowhead.com/wotlk/guides/unholy-death-knight-dps-rotation-cooldowns-abilities).
 
 #### Dual wield Blood tank?!?!
 
