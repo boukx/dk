@@ -42,7 +42,15 @@ Depends on your definition of viable.  It can clear content; it is at least 10% 
 
 #### Is Frost / Unholy tank viable?
 
-Depends on the relative difficulty of content.  Frost tank is a really fun and solid choice for 10s and heroic dungeons but may struggle on 25 heroics and is certainly less preferable to Blood or a Paladin / Feral for raw mitigation in that context.  It has strong AoE snap aggro by opening with Death and Decay -> Howling Blast -> Blood Boil especially with Glyph of Howling Blast.  Ideally, you would Frost tank with the remaining points in Blood for imp tap, Bladed Armor, Blade Barrier, etc.  Unholy tank is essentially just Unholy DPS in frost presence that death strikes but it works fine for normal dungeons and probably heroic dungeons.
+Depends on the relative difficulty of content.  Frost tank is a really fun and solid choice for 10s and heroic dungeons but may struggle on 25 heroics and is certainly less preferable to Blood or a Paladin / Feral for raw mitigation in that context.  It has strong AoE snap aggro by opening with Death and Decay -> Howling Blast -> Blood Boil especially with Glyph of Howling Blast.  Ideally, you would Frost tank with the remaining points in Blood for imp tap, Bladed Armor, Blade Barrier, etc.  Unholy tank is essentially just Unholy DPS in frost presence that death strikes but it works fine for normal dungeons and probably heroic dungeons.  
+
+#### How much of a DPS gain is having a Druid Revitalize me?
+
+Not much.  
+
+On Frost it is essentially the difference of swapping points from Chill of the Grave into Black Ice, so around 2% Ice and Shadow damage per point while staying runic positive; on both sub specs you theoretically may be able to get a little more damage out by Frost Striking more often but the specs are already GCD capped so that damage difference will be at the expense of other damage sources.  
+
+DPS predictions for Revitalize on DW Unholy get very weird.  You're often capping runic in a single cycle to dump it when you have fillers and due to how the rotation inevitably drifts rune CDs you cannot move where these fillers are spent: you inevitably cap runic power and then dump it until empty in filler windows and can't move these windows.  The only DPS gain you should see from revit is from whatever talent you move Dirge talent points to.  Even then-- revit has a chance of not capping your runic before a filler window so you risk losing DPS; **tldr for dw unholy is a druid revitalizing you is a very minor DPS gain which caps as long as your runic is full before a filler window.**
 
 #### Dual wield Unholy?!?!
 
@@ -61,7 +69,7 @@ Guardian pets (summons without a petbar like Gargoyle and Ghoul _without Master 
 
 Army of the Dead is not used in combat by DPS specs as it has a long cast time that isn't worth the DPS loss; you may use something like an MCP to haste them before pull.  Tanks may use Army for its converting physical avoid into DR to soak magic damage better.
 
-Gargoyle snapshots haste, melee attack speed (icy talons), hit and AP when summoned. It can crit but has either 0 base crit or a very low base crit chance and its crit chance can only be increased by crit debuffs: it will ignore your crit from gear and buffs. Armor pen has no effect on it. Gargoyle doesnt snapshot or benefit dynamically from any %dmg buffs such as blood presence, Tricks or Unholy Frenzy. Unholy Death Knights will focus on snap shotting melee haste, AP/Str trinkets, and Fallen Crusader on their Gargoyle.
+Gargoyle snapshots haste, melee attack speed (icy talons), hit and AP when summoned. It can crit but has either 0 base crit or a very low base crit chance and its crit chance can only be increased by crit debuffs: it will ignore your crit from gear and buffs. Armor pen has no effect on it. Gargoyle doesnt snapshot or benefit dynamically from any %dmg buffs such as blood presence, Tricks, or Unholy Frenzy. Unholy Death Knights will focus on snap shotting melee haste, AP/Str trinkets, and Fallen Crusader on their Gargoyle.
 
 Master of Ghouls' ghoul gets strength and not AP from the player.  Its stats also dynamically update with the player as they get AP procs etc, it receives group buffs like King with Rogues, and does not snapshot.  
 
