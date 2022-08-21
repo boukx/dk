@@ -93,11 +93,11 @@ Pet ghoul has 0 spirit so does not regenerate health; try Ghoul Frenzy.
 
 #### What is Rune Grace?
 
-Runes regenerate after use at a rate of ten seconds per, with what's called a "Rune Grace Period" wherein you'll receive a reduction of up to 2.5 seconds in the regeneration time of your runes, based on the delay in which you use them after they are refreshed. This feature is merely a background effect when playing Unholy, but is used heavily in Frost. 
+Using a rune in combat puts the rune on a `10 - rune grace` cooldown.  Rune grace is the time since the rune came off of cooldown, up to 2.5s.  This means that as long as you spend your runes within 2.5s of them coming off CD, you will use each rune "on cooldown" and never drift its CD: it will be ready 10s after it was previously ready.
 
-The point of Rune Grace is to allow for some amount of latency in keeping the cooldown of runes consistent at 10s per, so if you were lagging, or you were caught in a GCD as a rune refreshes, you have a period of time in which using that rune will behave as if you used it the instant it refreshed. 
+![](media/rune_grace.gif)
 
-As an example: If an Unholy Rune regenerates, and at the same exact time you spend a global cooldown on using a Blood Rune, or spending Runic Power, or any action that would not consume that unholy rune, if you immediately press Plague Strike, the Unholy Rune you used for it will be set to a 8.5 second cooldown. This "Grace Period" caps at a reduction of 2.5 seconds per rune, resetting each time you spend that rune.
+This is a background effect in blood and unholy but is actively used in Frost to spend Killing Machine procs sooner without drifting Oblit runes (called Oblit tricking).
 
 #### Should Blood Tanks aim for spell hit cap?
 
