@@ -16,6 +16,10 @@ Stat weights are a numerical comparison used to compare different stats like str
 
 Not necessarily. Stats with caps can also be calculated as stat weights and compared that way, the only difference is that the value of the stat will change depending on if you're under or over its cap, and whether the cap is a hard or soft cap. A soft cap is one that eliminates some of the value of a stat but not all. Soft hit cap for example is when your special attacks wont miss anymore. Hard cap is the point at which a stat no longer provides additional value. The hit hard cap when dual wielding will be higher than the soft cap and is the point at which your auto attacks wont miss anymore. In practice this means that hit below the soft cap will have a higher stat weight than above the soft cap.
 
+#### Do I want fast or slow weapons? What about top end?
+
+As frost dps you want to use high damage range (slow) weapons.  As dual wield unholy dps you want to use the weapons with the most dps in either hand (if it's close sim it). "Top end" damage is not a relevant stat when comparing weapons.
+
 #### What talents / gear / BIS / stats should I take as X spec?
 
 [Check the wowhead guides.](https://www.wowhead.com/wotlk/guides/classes/death-knight)
