@@ -91,9 +91,18 @@ Master of Ghouls' ghoul gets strength and not AP from the player.  Its stats als
 
 Blood worms suck: their iCD is longer than their summon so you can never have 2 sets up at the same time; a set caps at 4 and they do medicore damage and trivial healing.  
 
-#### Why isn't my pet ghoul regenerating health out of combat?
+#### Should I use Glyph of Howling Blast? 
 
-Pet ghoul has 0 spirit so does not regenerate health; try Ghoul Frenzy.
+Glyph of Howling Blast has very specific use cases, but is typically not recommended. The disease it applies does not affect the damage of that Howling Blast, as it comes after the initial damage of Howling Blast. Other Frost Death Knights will get the benefit of your Frost Fever after you've cast it, so it may be viable in certain situations, but your own first Howling Blast will not gain the increased damage.
+
+#### What Runeforges should I use?
+
+For Frost you want to use Razorice main hand and Fallen Crusader offhand if you are not expertise capped. This is because if you Hit Obliterate, and it gets dodged the dodge happens only on the MAIN HAND part of the ability, which means that the OFF HAND part of the ability will HIT even though you have your runes replenished. This will always increase the hit count of your offhand weapon and give you more Fallen Crusader procs. 
+If you are expertise capped then you would want to apply Fallen Crusader to whichever of your weapons is slowest and put Razorice on the other because PPM effects like Fallen Crusader are calculated based on weapon speed when calculating their chance to hit on instant attacks. This means that a slow weapon will have a higher chance to proc PPM effects with instant attacks.
+
+For Unholy you generally want to use Fallen Crusader in both hands (if dual wielding, otherwise just Fallen Crusader on a 2h). You could use Fallen Crusader main hand and Black Magic offhand to snapshot your Gargoyle with the haste from Black Magic and then weapon swap back to a Fallen Crusader offhand, but it would need to be done around your swing timer and gcd so as not to clip either and lose dps from them.
+
+The best options for tanking are Stoneskin Gargoyle and Nerubian Carapace due to their bonuses to stamina.
 
 #### What is Rune Grace?
 
@@ -102,6 +111,14 @@ Using a rune in combat puts the rune on a `10 - rune grace` cooldown.  Rune grac
 ![](media/rune_grace.gif)
 
 This is a background effect in blood and unholy but is actively used in Frost to spend Killing Machine procs sooner without drifting Oblit runes (called Oblit tricking).
+
+#### How does Blood Tap work?
+
+Blood Tap is a weird spell with some unintuitive behaviors.  It refreshes a blood rune and taps a blood rune into a death rune: these effects can occur on separate runes e.g. the case where your left death rune is on CD and your right rune is an active blood rune -> two active death runes.
+
+Once a blood rune is tapped, it will stay a death rune regardless of what it is used for until the duration of the buff ends --meaning you can use it as a death rune multiple times.  When Blood Tap fades, it will immediately change the death rune back into a blood rune regardless of whether the last spell casted triggered Blood of the North or Reaping.
+
+`/cancelaura Blood Tap` will cancel this effect wholly and revert the death rune back into a blood rune.
 
 #### Should Blood Tanks aim for spell hit cap?
 
