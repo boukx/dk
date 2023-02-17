@@ -81,13 +81,13 @@ Also totally fine.  You drop points in 2h Mastery in blood tree for points in Sc
 
 #### Yo' what the dog doing? (info dump on pets, guardians, and summons)
 
-Guardian pets (summons without a petbar like Gargoyle and Ghoul _without Master of Ghouls talent_ and Army of the Dead) snapshot your stats on summon, so you want to already be lusted and have drank your DPS pot.  Guardian's are not in your party so Bloodlust/Heroism after they are summoned will not affect them; they cannot receive Tricks or Unholy Frenzy; targeted buffs like paladin buffs must be manually applied.
+Guardian pets Ghoul _without Master of Ghouls talent_ and Army of the Dead snapshot your stats on summon, so you want to already be lusted and have drank your DPS pot. Guardian's are not in your party so Bloodlust/Heroism after they are summoned will not affect them; they cannot receive Tricks or Unholy Frenzy; targeted buffs like paladin buffs must be manually applied.
 
-Army of the Dead is not used in combat by DPS specs as it has a long cast time that isn't worth the DPS loss; you may use something like an MCP to haste them before pull.  Tanks may use Army for its converting physical avoid into DR to soak magic damage better.
+Army of the Dead is not used in combat by Frost DPS spec as it has a long cast time that isn't worth the DPS loss; you may use something like an MCP to haste them before pull.  Tanks may use Army for its converting physical avoid into DR to soak magic damage better. Unholy DPS specs want to use Army of the Dead in combat during Bloodlust and with other procs to snapshot the maximum effect.
 
-Gargoyle snapshots haste, melee attack speed (icy talons), hit and AP when summoned. It can crit but has either 0 base crit or a very low base crit chance and its crit chance can only be increased by crit debuffs: it will ignore your crit from gear and buffs. Armor pen has no effect on it. Gargoyle doesnt snapshot or benefit dynamically from any %dmg buffs such as blood presence, Tricks, or Unholy Frenzy. Unholy Death Knights will focus on snap shotting melee haste, AP/Str trinkets, and Fallen Crusader on their Gargoyle.
+Gargoyle snapshots hit and AP when summoned. Gargoyle gains the benefit of melee haste such as from Icy Talons and Improved Icy Talons or Windfury dynamically (every time it goes to cast it will check how much haste you have and scale its cast speed 1:1 with that value) It can crit but has either 0 base crit or a very low base crit chance and its crit chance can only be increased by crit debuffs on its target or buffs on itself like Focus Magic: it will ignore your crit from gear and buffs. Armor pen has no effect on it. Gargoyle doesnt snapshot or benefit dynamically from any %dmg buffs such as blood presence, Tricks, or Unholy Frenzy. Unholy Death Knights will focus on snap shotting AP/Str trinkets, and Fallen Crusader on their Gargoyle.
 
-Master of Ghouls' ghoul gets strength and not AP from the player.  Its stats also dynamically update with the player as they get AP procs etc, it receives group buffs like King with Rogues, and does not snapshot.  
+Master of Ghouls' ghoul gets strength and not AP from the player.  Its stats also dynamically update with the player as they get AP procs, Haste procs, etc... it receives group buffs like King with Rogues, and does not snapshot.  
 
 Blood worms suck: their iCD is longer than their summon so you can never have 2 sets up at the same time; a set caps at 4 and they do medicore damage and trivial healing.  
 
